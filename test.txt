@@ -1,0 +1,18 @@
+_STATE
+S1
+S2
+
+
+_EVENTS
+1 S1 S1
+5 S1 S2
+1 S1 S2
+1 S1 S2
+
+
+_SINIT
+S1
+
+_SFINAL
+S1
+# STM32F429i-Discovery
